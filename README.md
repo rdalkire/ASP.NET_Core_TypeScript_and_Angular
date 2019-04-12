@@ -2,7 +2,7 @@
 rdalkire  
 4/11/2019  
 
-Intended to be sample code for the [TypeScript ASP.NET Core](https://www.typescriptlang.org/docs/handbook/asp-net-core.html) tutorial.
+Intended to be sample code for the [TypeScript ASP.NET Core](https://www.typescriptlang.org/docs/handbook/asp-net-core.html) tutorial, in order to help resolve the issue I've raised,  [#1012, ASP.NET Core tutorial - working source code please](https://github.com/Microsoft/TypeScript-Handbook/issues/1012)
 
 As one can see by the .sln, .csproj and other included files, this is done using VS 2017 with the optional ".NET Core 1.0 - 1.1 development tools for Web", the ASP.NET Core 1.1 template, Microsoft.AspNetCore.StaticFiles 1.1.2 and everything else specified in the tutorial instructions.
 
